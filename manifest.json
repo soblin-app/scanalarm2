@@ -4,12 +4,8 @@
   "description": "Alarm clock app that requires scanning household items to stop",
   "start_url": "/",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#1a1a2e",
   "theme_color": "#e94560",
-  "orientation": "portrait",
-  "categories": ["utilities", "lifestyle"],
-  "lang": "en",
-  "dir": "ltr",
-  "scope": "/",
-  "prefer_related_applications": false
+  "categories": ["utilities", "lifestyle"]
 }
